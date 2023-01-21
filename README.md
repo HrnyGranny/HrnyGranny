@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/tHA7VA9OHMDGaoUZpr/giphy.gif" width="50"></h2>
+<p><em>Software Enginner at <a href="https://www.uclm.es/">UCLM</a></em></p>
 
-<!--
-**HrnyGranny/HrnyGranny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub HrnyGranny](https://img.shields.io/github/followers/HrnyGranny?label=GitHub&style=for-the-badge&logo=github)](https://github.com/HrnyGranny)
+[![Instagram: alvarorur](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarorur)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/gfI2SFqrtxwf2Aw9x5/giphy.gif" width="30"> About me... <img src="https://media.giphy.com/media/gfI2SFqrtxwf2Aw9x5/giphy.gif" width="30">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+def HrnyGranny:
+  code = {Python, Java, C++, ZeroC Ice, R}
+  tools = {Visual Studio, Visual Studio Code}
+```
+---
+
+⭐️ From [@HrnyGranny](https://github.com/HrnyGranny)
