@@ -8,7 +8,7 @@
 
 ```python
 def HrnyGranny:
-  code = {Python, Java, C++, ZeroC Ice, R}
+  code = {Python, Java, C++, ZeroC Ice, R, HTML, CSS, JavaScript}
   tools = {Visual Studio, Visual Studio Code}
   data_bases = {MySQL, Access}
 ```
