@@ -1,4 +1,4 @@
-<h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/tHA7VA9OHMDGaoUZpr/giphy.gif" width="50"></h2>
+# Hi, I'm Álvaro! 
 
 <a href="https://hrnygranny.github.io/">Personal Web Page</a>
 
