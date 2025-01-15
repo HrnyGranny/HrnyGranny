@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td align="center" style="padding: 10px; border: 1px solid #ddd;">🖥️ <b>Programming Languages</b></td>
-      <td>Java, Python, C, C++</td>
+      <td>Java, Python, C, C++<, VB/td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; border: 1px solid #ddd;">📊 <b>Databases</b></td>
