@@ -22,7 +22,7 @@
 | **⚙️ Tools** | <img src="https://skillicons.dev/icons?i=github" width="38" title="GitHub"> <img src="https://skillicons.dev/icons?i=docker" width="38" title="Docker"> <img src="https://skillicons.dev/icons?i=git" width="38" title="Git"> <img src="https://skillicons.dev/icons?i=vscode" width="38" title="VirtualBox"> |
         
 <div align="center">
-  <pre><code><a href="https://hrnygranny.github.io/" target="_blank">https://hrnygranny.github.io/</a>  <i></i></code></pre>
+  <pre><code><a href="https://hrnygranny.me/" target="_blank">https://hrnygranny.github.io/</a>  <i></i></code></pre>
 </div>
   </table>
 </div>
